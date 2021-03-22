@@ -50,7 +50,7 @@ exports[`<Main /> Should render the heading 1`] = `
   <img
     alt="Logotipo do React escrito React Avaçado ao lado"
     class="c1"
-    src="/img/logo.svg"
+    src="img/logo.svg"
   />
   <h1
     class="c2"
